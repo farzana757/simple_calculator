@@ -10,10 +10,6 @@ multiply= number1 * number2
 divide= number1/ number2
 
 operation= int(input("Enter the operation:"))
-'''add==1
-subtract==2
-multiply==3
-divide==4'''
 
 
 if operation==1:
@@ -31,4 +27,4 @@ elif operation== 4:
 else:
     print("Exit")
     
-
+#THIS IS NOT A GOOD-LOOKING CALCULATOR!!! PLEASE SEE THE ANOTHER GOOD-LOOKING CALCULATOR I HAVE MADE.
