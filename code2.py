@@ -1,4 +1,6 @@
 print("WELCOME TO MY CALCULATOR!!!")
+name=input("What is your name:")
+print("WELCOME", name)
 
 while True:
     print("\nChoose an operation:")
